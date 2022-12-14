@@ -3,9 +3,10 @@
 /**
  * main - check the code 
  *
- * Return Always 0.
+ * Return Always 0 (success)²²:wq
+ *
  */
-int main(void)
+void print_alphabet(void)
 {
 	int n;
 
